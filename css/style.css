@@ -102,7 +102,7 @@ nav .menu-btn i {
 /* MAIN */
 
 .containerMain {
-  background-image: url(/image/banner.jpg);
+  background-image: url(banner.jpg);
   background-position: center;
   width: 100%;
   background-size: cover;
